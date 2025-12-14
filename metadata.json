@@ -1,0 +1,7 @@
+{
+  "name": "Cosmic Hand Control",
+  "description": "Interactive 3D space scene with gesture-controlled floating blocks using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
